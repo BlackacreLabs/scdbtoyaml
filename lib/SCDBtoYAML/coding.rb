@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding: utf-8 -*-
 module SCDBtoYAML
   class Coding
     ADMIN_ACTION = {
